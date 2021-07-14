@@ -35,4 +35,4 @@ function post (){
   });
 };
 
-window.addEventListener('load', post)；
+window.addEventListener('load', post);
